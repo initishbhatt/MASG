@@ -10,7 +10,7 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Rx
 - [GOTO 2013 • Functional Reactive Programming with RxJava • Ben Christensen](https://www.youtube.com/watch?v=_t06LRX0DV0)
-- [Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?v=f3acAsSZPhU)
+- [Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?v=f3acAsSZPhU) [x]
 - [droidcon NYC 2017 - Advanced Networking with RxJava + Retrofit](https://www.youtube.com/watch?v=q4eK3VFhnA0)
 - [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4)
 
@@ -18,7 +18,7 @@ This is my goto list for sharpening Android dev fundamentals.
 - [Understanding Android Threading](https://www.youtube.com/watch?v=0Z5MZ0jL2BM)
 
 ### Architecture
-- [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
+- [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs) [x]
 - [Android application architecture: Get ready for the next billion! - Google I/O 2016](https://www.youtube.com/watch?v=70WqJxymPr8)
 
 ### Design
@@ -36,4 +36,4 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Thinking
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
-- [Seven Ineffective Coding Habits of Many Programmers-Kevlin Henney](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+- [Seven Ineffective Coding Habits of Many Programmers-Kevlin Henney](https://www.youtube.com/watch?v=ZsHMHukIlJY) [x]
