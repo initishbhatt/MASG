@@ -36,4 +36,4 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Thinking
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
--  [Seven Ineffective Coding Habits of Many Programmers-Kevlin Henney](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+- [x] [Seven Ineffective Coding Habits of Many Programmers-Kevlin Henney](https://www.youtube.com/watch?v=ZsHMHukIlJY)
