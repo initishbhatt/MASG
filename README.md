@@ -50,3 +50,6 @@ This is my goto list for sharpening Android dev fundamentals.
 - [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
 - [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
 
+### Android
+-[Android Support Library](http://martiancraft.com/blog/2015/06/android-support-library/)
+
