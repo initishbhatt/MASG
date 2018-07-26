@@ -51,5 +51,5 @@ This is my goto list for sharpening Android dev fundamentals.
 - [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
 
 ### Android
--[Android Support Library](http://martiancraft.com/blog/2015/06/android-support-library/)
+- [Android Support Library](http://martiancraft.com/blog/2015/06/android-support-library/)
 
