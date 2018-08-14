@@ -26,6 +26,8 @@ This is my goto list for sharpening Android dev fundamentals.
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 - [This one simple change for better class naming will blow your mind](https://blog.novoda.com/better-class-naming/#fn1)
 - [Learning Path: SOLID Principles for Android](https://academy.realm.io/posts/learning-path-solid-principles-for-android/)
+- [Desigining Something SOLID](https://blog.novoda.com/designing-something-solid/)
+- [Java Class Fields](https://blog.novoda.com/clean-code-java-class-fields/)
 
 ### Storage
 - [GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
